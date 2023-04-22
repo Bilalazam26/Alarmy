@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin1">16dp</dimen>
+    <dimen name="name">28sp</dimen>
+    <dimen name="time">24sp</dimen>
+</resources>
